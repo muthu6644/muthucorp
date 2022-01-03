@@ -11,7 +11,7 @@ public class CustomerController {
 	@GetMapping("/health")
 	public  String getHealth() {
 		
-		System.out.println("Customer service health check fine");
+		System.out.println("Customer service health check fines");
 		return "ok";
 	}
 
