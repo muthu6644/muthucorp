@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.org</groupId>
-	<artifactId>muthucorp</artifactId>
+	<artifactId>muthucorp1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>muthucorp</name>
+	<name>muthucorp1</name>
 	<description>Template</description>
 	<properties>
 		<java.version>8</java.version>
