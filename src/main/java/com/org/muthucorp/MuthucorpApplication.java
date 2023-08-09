@@ -10,6 +10,7 @@ public class MuthucorpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MuthucorpApplication.class, args);
+		System.out.println("Application started...");
 	}
 	
 }
